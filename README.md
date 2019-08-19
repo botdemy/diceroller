@@ -1,6 +1,6 @@
 # diceroller
 
-### How to download:
+## How to download:
 #### First Time
 ```
 git clone https://github.com/botdemy/diceroller.git
@@ -10,7 +10,7 @@ git clone https://github.com/botdemy/diceroller.git
 ```
 git reset --hard origin/master
 ```
-### How to upload/commit: (by owner only)
+## How to upload/commit: (by owner only)
 ```
 git add diceroller.py
 git commit -m "Update diceroller file"
