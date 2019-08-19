@@ -1,12 +1,12 @@
 # diceroller
 
-## How to download:
-#### First Time
+### How to download:
+##### First Time
 ```
 git clone https://github.com/botdemy/diceroller.git
 
 ```
-#### Weekly Refresh
+##### Weekly Refresh
 ```
 git reset --hard origin/master
 ```
